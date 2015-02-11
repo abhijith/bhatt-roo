@@ -1,0 +1,5 @@
+berks-cookbooks
+.chef/clients
+.chef/nodes
+.chef/vms
+.chef/local-mode-cache
