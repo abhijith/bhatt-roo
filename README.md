@@ -1,6 +1,6 @@
 Repo to test chef-provisioning
 
-    $ git@github.com:abhijith/bhatt-roo.git
+    $ git clone git@github.com:abhijith/bhatt-roo.git
     $ cd bhatt-roo
     $ bundle install
 	$ berks
